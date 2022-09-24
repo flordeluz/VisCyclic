@@ -1,0 +1,5 @@
+bottle
+sklearn
+statsmodels
+simplejson
+tables
